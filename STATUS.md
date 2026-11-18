@@ -1,11 +1,11 @@
 # Status
 
 ## Done
-- Repository created
-- README added
+- Setup repository and files
+- Solved Part A and Part B in DartPad
 
 ## In progress
-- Dart Basics Assignment (Parts A-E)
+- Part C
 
 ## Stuck on
 - Nothing yet
